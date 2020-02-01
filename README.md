@@ -1,1 +1,1 @@
-<h1>Webpack.lesson</h1>
+<h1>Webpack.bilder</h1>
