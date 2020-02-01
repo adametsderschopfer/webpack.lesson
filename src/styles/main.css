@@ -1,0 +1,12 @@
+.container{
+    padding-top: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+body{
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+}
